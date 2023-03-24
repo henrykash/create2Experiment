@@ -12,7 +12,13 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.3",
-    "ethers": "^6.2.2",
     "ts-node-dev": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.2",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.13.0",
+    "install": "^0.13.0",
+    "npm": "^9.6.2"
   }
 }
