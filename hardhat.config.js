@@ -54,7 +54,7 @@ task(
   })
 
 module.exports = {
-  solidity: '0.8.9',
+  solidity: '0.8.13',
   networks: {
     hardhat: {},
     goerli: {
